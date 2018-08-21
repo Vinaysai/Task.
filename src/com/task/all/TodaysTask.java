@@ -76,7 +76,7 @@ public class TodaysTask {
 		System.out.print("\nfirst element in After Sorting::");
 		for (int i = 0; i < n - 1; i++) {
 			System.out.print(a[i] + ",");
-
+			
 		}
 		System.out.print(a[n - 1]);
 		System.out.print("\nSecond Element After Sorting::");
